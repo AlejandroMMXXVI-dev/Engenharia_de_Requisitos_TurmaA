@@ -305,7 +305,7 @@ A priorização define quais funcionalidades devem receber maior atenção duran
 
   **Deseja baixar o documento completo em PDF?**
 
-  [📄 Baixar PDF — Clínica Vida + Saúde](./atividade-engenharia-requisitos.pdf)
+  [📄 Baixar PDF — Clínica Vida + Saúde](VisaoGeral/atividade-Clinica_Vida_+_Saude.pdf)
 
 </div>
 
