@@ -1,7 +1,7 @@
  <div align="center">
-  <h1>Atividade Prática — Engenharia de Requisitos</h1>
+  <h1>Atividade Prática - Engenharia de Requisitos</h1>
   <p><b>Disciplina:</b> Engenharia de Requisitos | <b>Tema:</b> Análise e Modelagem de Processos de Negócio</p>
-  <p><b>Projeto:</b> Clínica Vida + Saúde — Sistema de Agendamento de Consultas Médicas</p>
+  <p><b>Projeto:</b> Clínica Vida + Saúde - Sistema de Agendamento de Consultas Médicas</p>
 </div>
 
 ---
