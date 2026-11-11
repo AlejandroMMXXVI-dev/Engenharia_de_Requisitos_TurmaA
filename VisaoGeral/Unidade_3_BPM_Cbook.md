@@ -303,7 +303,7 @@ A priorização define quais funcionalidades devem receber maior atenção duran
 
   ## 📥 Download do Documento
 
-  [📄 Baixar atividade completa em PDF](./VisaoGeral/atividade-Clinica-Vida-Saude.pdf)
+  [📄 Baixar atividade completa em PDF](Engenharia_de_Requisitos_TurmaA/VisaoGeral/atividade-Clinica-Vida-Saude.pdf)
 
 </div>
 
