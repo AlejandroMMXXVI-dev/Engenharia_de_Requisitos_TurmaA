@@ -299,16 +299,13 @@ A priorização define quais funcionalidades devem receber maior atenção duran
 >
 > Dessa forma, a Engenharia de Requisitos contribui para que a solução desenvolvida esteja alinhada às necessidades dos stakeholders, evitando funcionalidades desnecessárias e reduzindo possíveis falhas durante o desenvolvimento.
 
-## 📥 Download do Documento
-
 <div align="center">
 
-  **Deseja baixar o documento completo em PDF?**
+  ## 📥 Download do Documento
 
-  [📄 Baixar PDF — Clínica Vida + Saúde](VisaoGeral/atividade-Clinica_Vida_+_Saude.pdf)
+  [📄 Baixar atividade completa em PDF](./atividade-clinica-vida-saude.pdf)
 
 </div>
-
 
 ## 💭 Reflexão Final do Grupo
 
